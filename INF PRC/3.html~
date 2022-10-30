@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="main.css"/>
+</head>
+<body>
+<div id="banner">		<h1>Slovensko - Súčasnosť</h1>
+	
+		<ol>
+			<li><a href="1.html">Úvod</a></li>
+			<li><a href="2.html">História</a></li>
+			<li>»Súčastnosť</li>
+			<li><a href="4.html">Pamiatky</a></li>
+		</ol></div>
+<div id="kontajner">
+	<div id="kontajner2">
+			<div id="navigacia"></div>
+			<div id="viac">Slovensko je parlamentná demokracia s demokratickými inštitúciami. V hospodárstve sa vyznačuje modernizovaným priemyslom a rozvíjajúcim sa sektorom služieb, ktorý prevažuje v podiele tak hrubého domáceho produktu, ako aj pracovnej sily. Dopravná infraštruktúra je vzhľadom na geografický profil krajiny redšie rozložená, no v súčasnosti dochádza k jej rozšíreniu a modernizácii. </div>
+			<div id="obsah"><h3>Sídla</h3>	
+		<table border="4" cellpadding="10" cellspacing="2" bgcolor="yellow">
+			<tr>
+				<th colspan="4">Obyvateľstvo</th>
+			</tr>
+			<tr>
+				<th>Mesto</th>
+				<th>Kraj</th>
+				<th>Okres</th>
+				<th>Počet obyvateľov</th>
+			</tr>
+			<tr>
+				<td>Bratislava</td>
+				<td>Bratislavský kraj</td>
+				<td>Bratislava I, II, III, IV, V</td>
+				<td>432 864 </td>
+			</tr>
+			<tr>
+				<td>Košice</td>
+				<td>Košický kraj</td>
+				<td>Košice I, II, III, IV</td>
+				<td>238 757 </td>
+			</tr>
+			<tr>
+				<td>Prešov</td>
+				<td>Prešovský kraj</td>
+				<td>Prešov</td>
+				<td>88 680 </td>
+			</tr>
+			<tr>
+				<td>Žilina</td>
+				<td>Žilinský kraj</td>
+				<td>Žilina</td>
+				<td>80 810 </td>
+			</tr>
+			<tr>
+				<td>Banská Bystrica</td>
+				<td>Banskobystrický kraj</td>
+				<td>Banská Bystrica</td>
+				<td>78 327 </td>
+			</tr>
+			<tr>
+				<td>Nitra</td>
+				<td>Nitriansky kraj</td>
+				<td>Nitra</td>
+				<td>76 655 </td>
+			</tr>
+			<tr>
+				<td>Trnava</td>
+				<td>Trnavský kraj</td>
+				<td>Trnava</td>
+				<td>65 207 </td>
+			</tr>
+			<tr>
+				<td>Trenčín</td>
+				<td>Trenčiansky kraj</td>
+				<td>Trenčín</td>
+				<td>55 333 </td>
+			</tr>
+			<tr>
+				<td>Martin</td>
+				<td>Žilinský kraj</td>
+				<td>Martin</td>
+				<td> 	54 618 </td>
+			</tr>
+			<tr>
+				<td>Poprad</td>
+				<td>Prešovský kraj</td>
+				<td>Poprad</td>
+				<td>51 304 </td>
+			</tr>
+		</table>	</div>
+			<div id="ukoncenie"></div>
+	</div>
+</div>
+<div id="pata">
+		<ol>
+			<li><a href="1.html">Úvod</a></li>
+			<li><a href="2.html">História</a></li>
+			<li>»Súčastnosť</li>
+			<li><a href="4.html">Pamiatky</a></li>
+		</ol> Alexander Belák 2021</div>
+</body>
+</html>
